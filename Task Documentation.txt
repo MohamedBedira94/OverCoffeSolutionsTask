@@ -1,0 +1,18 @@
+Packages used in Task :
+#########################
+                        1- zizaco/entrust Package for Roles and Permissions.
+                        2- Laravelcollective/html package for Forms.
+                        3- Socialiate Package for User facebook Authentication.
+
+Users Emails to Access Website :
+########################
+                        1- Adminstrator
+                                       Email:mohamed.bedera@gmail.com
+                                       Password:123456
+                        2- Editor 
+                                       Email:ahmed@gmail.com
+                                       password:123456
+Database :
+########################
+                        1- username:root
+                        2- password:rootroot
